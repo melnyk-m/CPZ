@@ -1,0 +1,13 @@
+M:\SPZ\SPZ3\SPZ3\bin\Debug\SPZ3.exe.config
+M:\SPZ\SPZ3\SPZ3\bin\Debug\SPZ3.exe
+M:\SPZ\SPZ3\SPZ3\bin\Debug\SPZ3.pdb
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.csprojAssemblyReference.cache
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.Properties.Resources.resources
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.Form1.resources
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.csproj.GenerateResource.cache
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.exe
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.pdb
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.View.Authenticationcs.resources
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.View.ProgramDialog.resources
+M:\SPZ\SPZ3\SPZ3\obj\Debug\SPZ3.View.PCSpecificationEditor.resources

@@ -1,0 +1,10 @@
+M:\SPZ\SPZ4\SPZ4\bin\Debug\SPZ4.exe.config
+M:\SPZ\SPZ4\SPZ4\bin\Debug\SPZ4.exe
+M:\SPZ\SPZ4\SPZ4\bin\Debug\SPZ4.pdb
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.csprojAssemblyReference.cache
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.Form1.resources
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.Properties.Resources.resources
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.csproj.GenerateResource.cache
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.exe
+M:\SPZ\SPZ4\SPZ4\obj\Debug\SPZ4.pdb

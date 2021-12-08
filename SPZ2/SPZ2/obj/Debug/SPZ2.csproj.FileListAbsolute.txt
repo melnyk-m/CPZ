@@ -1,0 +1,10 @@
+M:\SPZ\SPZ2\SPZ2\bin\Debug\SPZ2.exe.config
+M:\SPZ\SPZ2\SPZ2\bin\Debug\SPZ2.exe
+M:\SPZ\SPZ2\SPZ2\bin\Debug\SPZ2.pdb
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.csprojAssemblyReference.cache
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.Form1.resources
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.Properties.Resources.resources
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.csproj.GenerateResource.cache
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.exe
+M:\SPZ\SPZ2\SPZ2\obj\Debug\SPZ2.pdb

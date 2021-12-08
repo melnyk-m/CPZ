@@ -1,0 +1,13 @@
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.exe
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.deps.json
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.runtimeconfig.json
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.runtimeconfig.dev.json
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.dll
+M:\SPZ\SPZ1\SPZ1\bin\Debug\netcoreapp3.1\SPZ1.pdb
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.csprojAssemblyReference.cache
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.AssemblyInfoInputs.cache
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.AssemblyInfo.cs
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.dll
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.pdb
+M:\SPZ\SPZ1\SPZ1\obj\Debug\netcoreapp3.1\SPZ1.genruntimeconfig.cache
