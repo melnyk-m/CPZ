@@ -1,0 +1,11 @@
+M:\SPZ\SPZ6\SPZ6\bin\Debug\SPZ6.exe.config
+M:\SPZ\SPZ6\SPZ6\bin\Debug\SPZ6.exe
+M:\SPZ\SPZ6\SPZ6\bin\Debug\SPZ6.pdb
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.csprojAssemblyReference.cache
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.Form1.resources
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.Properties.Resources.resources
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.csproj.GenerateResource.cache
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.exe
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.pdb
+M:\SPZ\SPZ6\SPZ6\obj\Debug\SPZ6.View.MoveOut.resources

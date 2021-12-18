@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <GroupNumber>KIUKI-19-1</GroupNumber>
+    <NumberOfStudents>23</NumberOfStudents>
+  </Group>
+  <Group>
+    <GroupNumber>KIUKI-19-2</GroupNumber>
+    <NumberOfStudents>23</NumberOfStudents>
+  </Group>
+  <Group>
+    <GroupNumber>KIUKI-19-3</GroupNumber>
+    <NumberOfStudents>29</NumberOfStudents>
+  </Group>
+  <Group>
+    <GroupNumber>KIUKI-19-7</GroupNumber>
+    <NumberOfStudents>0</NumberOfStudents>
+  </Group>
+</ArrayOfGroup>

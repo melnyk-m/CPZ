@@ -1,0 +1,12 @@
+M:\SPZ\SPZ5\SPZ5\bin\Debug\SPZ5.exe.config
+M:\SPZ\SPZ5\SPZ5\bin\Debug\SPZ5.exe
+M:\SPZ\SPZ5\SPZ5\bin\Debug\SPZ5.pdb
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.csprojAssemblyReference.cache
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.Form1.resources
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.Properties.Resources.resources
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.csproj.GenerateResource.cache
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.csproj.CoreCompileInputs.cache
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.exe
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.pdb
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.View.EditGroup.resources
+M:\SPZ\SPZ5\SPZ5\obj\Debug\SPZ5.View.ChooseGroup.resources
